@@ -9,8 +9,8 @@ export default function Navbar() {
   return (
     <header className="w-full bg-gs-white border-b border-gs-border">
       <div className="max-w-5xl mx-auto px-6 h-[80px] flex items-center justify-between">
-        <Link href="/" className="flex items-center h-full py-2">
-          <img src="/images/logo.png" alt="Top Golf Simulators" className="h-full w-auto max-h-[64px]" />
+        <Link href="/" className="flex items-center overflow-visible">
+          <img src="/images/logo.png" alt="Top Golf Simulators" style={{height:'160px',width:'auto',marginTop:'-40px',marginBottom:'-40px'}} />
         </Link>
 
         {/* Desktop nav */}
