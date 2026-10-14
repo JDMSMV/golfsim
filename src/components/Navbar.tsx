@@ -10,7 +10,7 @@ export default function Navbar() {
     <header className="w-full bg-gs-white border-b border-gs-border">
       <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/">
-          <img src="/images/logo.png" alt="Top Golf Simulators" className="h-8 w-auto" />
+          <img src="/images/logo.png" alt="Top Golf Simulators" className="h-12 w-auto md:h-14" />
         </Link>
 
         {/* Desktop nav */}
