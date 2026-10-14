@@ -9,6 +9,10 @@ export const metadata: Metadata = {
 export default function SkyTrakPlusReview() {
   return (
     <div className="bg-gs-white">
+
+      <div className="w-full max-w-lg mx-auto aspect-[4/5] overflow-hidden mb-12 rounded-sm">
+        <img src="/images/skytrak.png" alt="SkyTrak+ launch monitor review" className="w-full h-full object-cover" />
+      </div>
       <div className="max-w-3xl mx-auto px-6 py-16">
 
         <div className="mb-10">

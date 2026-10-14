@@ -9,6 +9,10 @@ export const metadata: Metadata = {
 export default function HomeGolfSimulatorSetupGuide() {
   return (
     <div className="bg-gs-white">
+
+      <div className="w-full aspect-[16/9] overflow-hidden mb-12 rounded-sm">
+        <img src="/images/setup-guide.png" alt="Home golf simulator setup guide" className="w-full h-full object-cover" />
+      </div>
       <div className="max-w-3xl mx-auto px-6 py-16">
 
         <div className="mb-10">

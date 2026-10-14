@@ -10,6 +10,12 @@ export default function HomePage() {
   return (
     <div className="bg-gs-white">
 
+      {/* Full-bleed hero image */}
+      <div className="relative w-full h-[60vh] overflow-hidden">
+        <img src="/images/hero.png" alt="Home golf simulator setup" className="w-full h-full object-cover object-center" />
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent to-gs-white/80" />
+      </div>
+
       {/* Hero */}
       <section className="max-w-5xl mx-auto px-6 py-20 md:py-28">
         <div className="max-w-2xl">

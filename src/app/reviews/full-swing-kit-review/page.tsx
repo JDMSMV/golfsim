@@ -9,6 +9,10 @@ export const metadata: Metadata = {
 export default function FullSwingKITReview() {
   return (
     <div className="bg-gs-white">
+
+      <div className="w-full max-w-lg mx-auto aspect-[4/5] overflow-hidden mb-12 rounded-sm">
+        <img src="/images/full-swing-kit.png" alt="Full Swing KIT review" className="w-full h-full object-cover" />
+      </div>
       <div className="max-w-3xl mx-auto px-6 py-16">
 
         <div className="mb-10">
