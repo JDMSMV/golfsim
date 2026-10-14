@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'TruGolf APOGEE Review: The All-in-One That Takes the Headache Out — Golf Sim Lab',
+  title: 'TruGolf APOGEE Review: The All-in-One That Takes the Headache Out — Top Golf Simulators',
   description: 'An honest review of the TruGolf APOGEE golf simulator. TGC2 included, no subscription, camera-based tracking, and who should buy the all-in-one package at $8,995.',
 }
 

@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'The 5 Best Golf Simulators in 2024 — Golf Sim Lab',
+  title: 'The 5 Best Golf Simulators in 2024 — Top Golf Simulators',
   description: 'We tested all the major golf simulators to find the best. Here are our top picks across every budget, with honest assessments of what each one actually does well.',
 }
 
@@ -21,6 +21,16 @@ export default function BestGolfSimulatorsPage() {
           <h1 className="font-serif text-4xl md:text-5xl text-gs-green leading-tight mb-6">
             The 5 Best Golf Simulators in 2024 (After Testing Them All)
           </h1>
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
+              MW
+            </div>
+            <div>
+              <p className="font-medium text-sm text-[#1B3A2D]">Marcus Webb</p>
+              <p className="text-xs text-gray-500">2 handicap · Chicago, IL</p>
+            </div>
+            <Link href="/authors/marcus-webb" className="ml-auto text-xs text-gray-400 hover:text-[#1B3A2D]">View profile →</Link>
+          </div>
           <div className="flex items-center gap-4 text-gs-muted font-inter text-sm mb-8">
             <span>Updated October 2024</span>
             <span>·</span>
@@ -93,12 +103,18 @@ export default function BestGolfSimulatorsPage() {
             </p>
           </div>
 
-          <div className="mt-6 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-2.5 hover:bg-opacity-90 transition-all">
-              Check Price →
+          <div className="mt-6 flex gap-4 items-center flex-wrap">
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
-            <Link href="/reviews/skytrak-plus-review" className="inline-block border border-gs-border text-gs-text font-inter text-sm font-medium px-6 py-2.5 hover:border-gs-green transition-colors">
-              Full Review
+            <Link href="/reviews/skytrak-plus-review" className="inline-flex items-center gap-1 text-[#1B3A2D] font-medium text-sm border-b border-[#1B3A2D] pb-0.5 hover:border-[#C8A96E] hover:text-[#C8A96E] transition-colors">
+              Full Review →
             </Link>
           </div>
         </section>
@@ -138,12 +154,18 @@ export default function BestGolfSimulatorsPage() {
             </p>
           </div>
 
-          <div className="mt-6 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-2.5 hover:bg-opacity-90 transition-all">
-              Check Price →
+          <div className="mt-6 flex gap-4 items-center flex-wrap">
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
-            <Link href="/reviews/foresight-sports-gc3-review" className="inline-block border border-gs-border text-gs-text font-inter text-sm font-medium px-6 py-2.5 hover:border-gs-green transition-colors">
-              Full Review
+            <Link href="/reviews/foresight-sports-gc3-review" className="inline-flex items-center gap-1 text-[#1B3A2D] font-medium text-sm border-b border-[#1B3A2D] pb-0.5 hover:border-[#C8A96E] hover:text-[#C8A96E] transition-colors">
+              Full Review →
             </Link>
           </div>
         </section>
@@ -183,12 +205,18 @@ export default function BestGolfSimulatorsPage() {
             </p>
           </div>
 
-          <div className="mt-6 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-2.5 hover:bg-opacity-90 transition-all">
-              Check Price →
+          <div className="mt-6 flex gap-4 items-center flex-wrap">
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
-            <Link href="/reviews/full-swing-kit-review" className="inline-block border border-gs-border text-gs-text font-inter text-sm font-medium px-6 py-2.5 hover:border-gs-green transition-colors">
-              Full Review
+            <Link href="/reviews/full-swing-kit-review" className="inline-flex items-center gap-1 text-[#1B3A2D] font-medium text-sm border-b border-[#1B3A2D] pb-0.5 hover:border-[#C8A96E] hover:text-[#C8A96E] transition-colors">
+              Full Review →
             </Link>
           </div>
         </section>
@@ -228,12 +256,18 @@ export default function BestGolfSimulatorsPage() {
             </p>
           </div>
 
-          <div className="mt-6 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-2.5 hover:bg-opacity-90 transition-all">
-              Check Price →
+          <div className="mt-6 flex gap-4 items-center flex-wrap">
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
-            <Link href="/reviews/flightscope-mevo-plus-review" className="inline-block border border-gs-border text-gs-text font-inter text-sm font-medium px-6 py-2.5 hover:border-gs-green transition-colors">
-              Full Review
+            <Link href="/reviews/flightscope-mevo-plus-review" className="inline-flex items-center gap-1 text-[#1B3A2D] font-medium text-sm border-b border-[#1B3A2D] pb-0.5 hover:border-[#C8A96E] hover:text-[#C8A96E] transition-colors">
+              Full Review →
             </Link>
           </div>
         </section>
@@ -273,12 +307,18 @@ export default function BestGolfSimulatorsPage() {
             </p>
           </div>
 
-          <div className="mt-6 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-2.5 hover:bg-opacity-90 transition-all">
-              Check Price →
+          <div className="mt-6 flex gap-4 items-center flex-wrap">
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
-            <Link href="/reviews/garmin-approach-r10-review" className="inline-block border border-gs-border text-gs-text font-inter text-sm font-medium px-6 py-2.5 hover:border-gs-green transition-colors">
-              Full Review
+            <Link href="/reviews/garmin-approach-r10-review" className="inline-flex items-center gap-1 text-[#1B3A2D] font-medium text-sm border-b border-[#1B3A2D] pb-0.5 hover:border-[#C8A96E] hover:text-[#C8A96E] transition-colors">
+              Full Review →
             </Link>
           </div>
         </section>

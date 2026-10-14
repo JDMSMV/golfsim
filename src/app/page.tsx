@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Golf Sim Lab — Real Reviews, Real Golfers',
+  title: 'Top Golf Simulators — Real Reviews, Real Golfers',
   description: 'Honest golf simulator reviews and buying guides from people who actually use them. We test the gear so you know what to buy.',
 }
 

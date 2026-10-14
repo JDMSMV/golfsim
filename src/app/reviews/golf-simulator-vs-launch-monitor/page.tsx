@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: "Golf Simulator vs Launch Monitor: Not the Same Thing — Golf Sim Lab",
+  title: "Golf Simulator vs Launch Monitor: Not the Same Thing — Top Golf Simulators",
   description: "The real difference between a golf simulator and a launch monitor. When you need each, how one becomes the other, and which products straddle the line.",
 }
 

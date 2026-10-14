@@ -20,7 +20,7 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Golf Sim Lab — Real Reviews, Real Golfers',
+  title: 'Top Golf Simulators — Real Reviews, Real Golfers',
   description: 'Honest golf simulator reviews and buying guides from people who actually use them.',
 }
 

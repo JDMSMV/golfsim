@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between gap-8">
           <div>
             <Link href="/" className="font-serif text-xl text-gs-green font-medium">
-              Golf Sim Lab
+              Top Golf Simulators
             </Link>
             <p className="mt-2 text-gs-muted text-sm font-inter leading-relaxed max-w-xs">
               Honest reviews and buying guides for golf simulators, written by real golfers.
@@ -40,10 +40,10 @@ export default function Footer() {
 
         <div className="mt-10 pt-8 border-t border-gs-border">
           <p className="font-inter text-xs text-gs-muted leading-relaxed">
-            <strong>Affiliate Disclosure:</strong> Golf Sim Lab participates in affiliate programs. When you click links and make a purchase, we may earn a commission at no extra cost to you. Our reviews are based on independent research and personal testing — affiliate relationships never influence our recommendations.
+            <strong>Affiliate Disclosure:</strong> Top Golf Simulators participates in affiliate programs. When you click links and make a purchase, we may earn a commission at no extra cost to you. Our reviews are based on independent research and personal testing — affiliate relationships never influence our recommendations.
           </p>
           <p className="font-inter text-xs text-gs-muted mt-3">
-            © {new Date().getFullYear()} Golf Sim Lab. All rights reserved.
+            © {new Date().getFullYear()} Top Golf Simulators. All rights reserved.
           </p>
         </div>
       </div>

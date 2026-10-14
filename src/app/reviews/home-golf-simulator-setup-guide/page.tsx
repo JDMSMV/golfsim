@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'How to Build a Home Golf Simulator: Everything You Need to Know — Golf Sim Lab',
+  title: 'How to Build a Home Golf Simulator: Everything You Need to Know — Top Golf Simulators',
   description: 'The complete guide to building a home golf simulator. Room selection, equipment list, realistic prices, common mistakes, installation tips, and total cost ranges.',
 }
 
@@ -20,6 +20,16 @@ export default function HomeGolfSimulatorSetupGuide() {
           <h1 className="font-serif text-4xl md:text-5xl text-gs-green leading-tight mb-4">
             How to Build a Home Golf Simulator: Everything You Actually Need to Know
           </h1>
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
+              TK
+            </div>
+            <div>
+              <p className="font-medium text-sm text-[#1B3A2D]">Tyler Kwan</p>
+              <p className="text-xs text-gray-500">9 handicap · Austin, TX</p>
+            </div>
+            <Link href="/authors/tyler-kwan" className="ml-auto text-xs text-gray-400 hover:text-[#1B3A2D]">View profile →</Link>
+          </div>
           <div className="flex items-center gap-4 text-gs-muted font-inter text-sm mb-8">
             <span>Updated October 2024</span>
             <span>·</span>

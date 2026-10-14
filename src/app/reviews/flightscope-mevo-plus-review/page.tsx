@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'FlightScope Mevo+ Review: The Portable Simulator That Punches Above Its Weight — Golf Sim Lab',
+  title: 'FlightScope Mevo+ Review: The Portable Simulator That Punches Above Its Weight — Top Golf Simulators',
   description: 'A detailed review of the FlightScope Mevo+ golf launch monitor. Doppler radar performance, Essential plan, E6 Connect integration, and honest weaknesses.',
 }
 
@@ -20,6 +20,16 @@ export default function FlightscopeMevoPlusReview() {
           <h1 className="font-serif text-4xl md:text-5xl text-gs-green leading-tight mb-4">
             FlightScope Mevo+ Review: The Portable Simulator That Punches Above Its Weight
           </h1>
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
+              TK
+            </div>
+            <div>
+              <p className="font-medium text-sm text-[#1B3A2D]">Tyler Kwan</p>
+              <p className="text-xs text-gray-500">9 handicap · Austin, TX</p>
+            </div>
+            <Link href="/authors/tyler-kwan" className="ml-auto text-xs text-gray-400 hover:text-[#1B3A2D]">View profile →</Link>
+          </div>
           <div className="flex items-center gap-4 text-gs-muted font-inter text-sm mb-6">
             <span>Updated October 2024</span>
             <span>·</span>
@@ -172,8 +182,14 @@ export default function FlightscopeMevoPlusReview() {
           </p>
 
           <div className="mt-8 flex gap-4">
-            <a href="#" className="inline-block bg-gs-green text-white font-inter text-sm font-medium px-6 py-3 hover:bg-opacity-90 transition-all">
-              Check Current Price →
+            <a
+              href="#"
+              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
+            >
+              <span>Check Current Price</span>
+              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
             </a>
           </div>
         </div>
@@ -196,6 +212,17 @@ export default function FlightscopeMevoPlusReview() {
           </div>
         </div>
 
+      </div>
+
+      {/* Sticky mobile CTA */}
+      <div className="fixed bottom-0 left-0 right-0 bg-[#1B3A2D] text-white p-4 flex items-center justify-between md:hidden z-50">
+        <div>
+          <p className="text-xs text-white/70 font-light">Starting at</p>
+          <p className="font-semibold">$2,199</p>
+        </div>
+        <a href="#" className="bg-[#C8A96E] text-[#1B3A2D] font-bold px-6 py-3 text-sm rounded-sm">
+          Check Price →
+        </a>
       </div>
     </div>
   )

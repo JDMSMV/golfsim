@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Best Golf Simulator for Your Garage: A Real Setup Guide — Golf Sim Lab',
+  title: 'Best Golf Simulator for Your Garage: A Real Setup Guide — Top Golf Simulators',
   description: 'Ceiling height, depth requirements, projector throw ratios, lighting, and the best launch monitors for garage golf simulator setups. A practical guide before you buy.',
 }
 
@@ -20,6 +20,16 @@ export default function BestGolfSimulatorForGarage() {
           <h1 className="font-serif text-4xl md:text-5xl text-gs-green leading-tight mb-4">
             The Best Golf Simulator for Your Garage (A Real Setup Guide)
           </h1>
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
+              TK
+            </div>
+            <div>
+              <p className="font-medium text-sm text-[#1B3A2D]">Tyler Kwan</p>
+              <p className="text-xs text-gray-500">9 handicap · Austin, TX</p>
+            </div>
+            <Link href="/authors/tyler-kwan" className="ml-auto text-xs text-gray-400 hover:text-[#1B3A2D]">View profile →</Link>
+          </div>
           <div className="flex items-center gap-4 text-gs-muted font-inter text-sm mb-8">
             <span>Updated October 2024</span>
             <span>·</span>
