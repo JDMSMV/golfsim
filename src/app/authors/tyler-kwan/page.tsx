@@ -9,9 +9,7 @@ export default function TylerKwanPage() {
   return (
     <main className="max-w-3xl mx-auto px-4 py-12">
       <div className="flex items-start gap-6 mb-8">
-        <div className="w-20 h-20 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-2xl flex-shrink-0">
-          TK
-        </div>
+        <img src="/images/tyler-kwan.png" alt="Tyler Kwan" className="w-24 h-24 rounded-full object-cover flex-shrink-0 ring-2 ring-[#C8A96E]" />
         <div>
           <h1 className="text-3xl font-bold text-[#1B3A2D] mb-1">Tyler Kwan</h1>
           <p className="text-gray-600 mb-3">9 Handicap · Austin, TX</p>

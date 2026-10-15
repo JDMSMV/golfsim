@@ -28,6 +28,12 @@ export default function Navbar() {
             Reviews
           </Link>
           <Link
+            href="/the-range"
+            className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
+          >
+            The Range
+          </Link>
+          <Link
             href="/reviews/home-golf-simulator-setup-guide"
             className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
           >
