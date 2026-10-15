@@ -167,7 +167,7 @@ export default function HomePage() {
               My goal is simple: tell you what works, what doesn&apos;t, and who each system is actually right for. If a $600 Garmin R10 is the right answer for you, I&apos;ll tell you that. If you need to spend $7,000, I&apos;ll tell you that too.
             </p>
             <p>
-              We use affiliate links. That&apos;s disclosed, and it never changes our recommendations. A $600 commission on a Garmin doesn&apos;t make me recommend a system I wouldn&apos;t use myself.
+              We use affiliate links. That&apos;s disclosed, and it never changes our recommendations. The Garmin R10 is our entry-level pick at $599 — not because of the commission, but because it&apos;s genuinely the right answer for a lot of people.
             </p>
           </div>
         </div>
