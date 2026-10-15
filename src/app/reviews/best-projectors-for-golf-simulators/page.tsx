@@ -186,7 +186,7 @@ export default function BestProjectorsForGolfSimulators() {
             Build quality is solid. BenQ projectors have a reputation for long lamp life and reliable performance under the vibration environment of a golf simulator room (constant impact from the screen and mat area). The TH671ST is the recommendation I make to anyone who asks me without additional context.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/dp/B076MHKTFH?tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check BenQ TH671ST Price</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -225,7 +225,7 @@ export default function BestProjectorsForGolfSimulators() {
             Input lag at around 16ms in enhanced gaming mode sits right at the acceptable threshold — good, not exceptional. If lag sensitivity is your primary concern, the BenQ TH671ST at 8.3ms has a meaningful edge. If brightness and throw distance matter more, the Optoma wins.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/dp/B076MHKTFH?tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Optoma GT1090HDR Price</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -267,7 +267,7 @@ export default function BestProjectorsForGolfSimulators() {
             Input lag is approximately 20ms in game mode — slightly above ideal but workable for most users. Color-sensitive golfers who have the room depth will find the Epson 2250 the most visually satisfying option in this guide.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/dp/B076MHKTFH?tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Epson HC 2250 Price</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -306,7 +306,7 @@ export default function BestProjectorsForGolfSimulators() {
             The brightness limitation (2,200 lumens versus 3,000 in the TH671ST) is the real trade-off. In a controlled, dim room it&apos;s fine. With overhead lights on or any ambient light, the image quality degrades noticeably versus brighter options. Plan your lighting accordingly.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/dp/B076MHKTFH?tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check BenQ HT2050A Price</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />

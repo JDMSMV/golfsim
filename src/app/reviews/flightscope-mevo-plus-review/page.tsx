@@ -204,7 +204,7 @@ export default function FlightscopeMevoPlusReview() {
 
           <div className="mt-8 flex gap-4">
             <a
-              href="#"
+              href="https://www.amazon.com/s?k=flightscope+mevo+plus&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored"
               className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
             >
               <span>Check Current Price</span>
@@ -263,7 +263,7 @@ export default function FlightscopeMevoPlusReview() {
           <p className="text-xs text-white/70 font-light">Starting at</p>
           <p className="font-semibold">$2,199</p>
         </div>
-        <a href="#" className="bg-[#C8A96E] text-[#1B3A2D] font-bold px-6 py-3 text-sm rounded-sm">
+        <a href="https://www.amazon.com/s?k=flightscope+mevo+plus&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="bg-[#C8A96E] text-[#1B3A2D] font-bold px-6 py-3 text-sm rounded-sm">
           Check Price →
         </a>
       </div>
