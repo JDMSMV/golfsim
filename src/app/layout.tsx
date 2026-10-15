@@ -20,8 +20,26 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Top Golf Simulators — Real Reviews, Real Golfers',
-  description: 'Honest golf simulator reviews and buying guides from people who actually use them.',
+  title: {
+    default: 'Top Golf Simulators — Real Reviews, Real Golfers',
+    template: '%s | Top Golf Simulators',
+  },
+  description: 'Honest golf simulator reviews and buying guides from people who actually use them. We test the gear so you know what to buy.',
+  metadataBase: new URL('https://www.topgolfsimulators.com'),
+  openGraph: {
+    title: 'Top Golf Simulators — Real Reviews, Real Golfers',
+    description: 'Honest golf simulator reviews and buying guides from people who actually use them.',
+    url: 'https://www.topgolfsimulators.com',
+    siteName: 'Top Golf Simulators',
+    type: 'website',
+    images: [{ url: '/images/hero.png', width: 1200, height: 630, alt: 'Top Golf Simulators' }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Top Golf Simulators — Real Reviews, Real Golfers',
+    description: 'Honest golf simulator reviews and buying guides from people who actually use them.',
+    images: ['/images/hero.png'],
+  },
 }
 
 export default function RootLayout({
