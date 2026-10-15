@@ -3,13 +3,13 @@ import Link from 'next/link'
 import ProductRatings from '@/components/ProductRatings'
 
 // FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
-// Full Swing KIT price: $6,999 | Commission: ~8% = ~$560 per sale
+// Full Swing KIT price: $4,999 | Commission: ~8% = ~$560 per sale
 // ⚠️ PRICE NOTE: Some 2026 sources cite $4,999 — verify current MSRP before publishing.
 // Technology: Dual Doppler Radar (verified). Requires 8-10 ft behind ball (verified).
 
 export const metadata: Metadata = {
   title: "Full Swing KIT Review: What Tiger's Garage Uses — Top Golf Simulators",
-  description: "An honest review of the Full Swing KIT dual-radar launch monitor. Outdoor performance, club tracking, software quality, and who should actually buy it at $6,999.",
+  description: "An honest review of the Full Swing KIT dual-radar launch monitor. Outdoor performance, club tracking, software quality, and who should actually buy it at $4,999.",
 }
 
 export default function FullSwingKITReview() {
@@ -54,7 +54,7 @@ export default function FullSwingKITReview() {
           <div className="bg-gs-off border border-gs-border p-6 flex flex-wrap gap-6">
             <div>
               <p className="font-inter text-xs text-gs-muted uppercase tracking-widest mb-1">Price</p>
-              <p className="font-serif text-2xl text-gs-green">$6,999</p>
+              <p className="font-serif text-2xl text-gs-green">$4,999</p>
             </div>
             <div>
               <p className="font-inter text-xs text-gs-muted uppercase tracking-widest mb-1">Technology</p>
@@ -122,7 +122,7 @@ export default function FullSwingKITReview() {
             Where it falls short relative to E6 Connect or TGC2 is breadth. E6 Connect has 100,000+ course holes; Full Swing&apos;s library is more curated but smaller. For most golfers, the available courses are more than enough. But if course variety is paramount, you&apos;ll eventually notice the gap.
           </p>
           <p>
-            The included software is legitimately good, which is part of what justifies the price. You&apos;re not paying $6,999 and then needing another $200/year before it becomes a simulator.
+            The included software is legitimately good, which is part of what justifies the price. You&apos;re not paying $4,999 and then needing another $200/year before it becomes a simulator.
           </p>
 
           <h2 className="font-serif text-3xl text-gs-green mt-10 mb-2">Accuracy vs. the GC3</h2>
@@ -140,7 +140,7 @@ export default function FullSwingKITReview() {
           <ul className="list-disc pl-6 space-y-3 mt-2">
             <li><strong className="text-gs-text font-medium">Indoor spin accuracy vs. camera systems</strong> — dual radar is excellent, but still radar. Wedge spin rates aren&apos;t as precise as GC3 camera measurements.</li>
             <li><strong className="text-gs-text font-medium">Software ecosystem is narrower</strong> — Full Swing&apos;s platform is good but not as broad as E6 Connect. Third-party integrations are more limited than SkyTrak+.</li>
-            <li><strong className="text-gs-text font-medium">Price-to-accuracy ratio for pure indoor use</strong> — at $6,999 for indoor-only use, the GC3 is a stronger value argument.</li>
+            <li><strong className="text-gs-text font-medium">Price-to-accuracy ratio for pure indoor use</strong> — at $4,999 for indoor-only use, the GC3 is a stronger value argument.</li>
             <li><strong className="text-gs-text font-medium">True portability is limited</strong> — tripod setup, not bag-and-go.</li>
           </ul>
 
@@ -214,7 +214,7 @@ export default function FullSwingKITReview() {
       <div className="fixed bottom-0 left-0 right-0 bg-[#1B3A2D] text-white p-4 flex items-center justify-between md:hidden z-50">
         <div>
           <p className="text-xs text-white/70 font-light">Starting at</p>
-          <p className="font-semibold">$6,999</p>
+          <p className="font-semibold">$4,999</p>
         </div>
         <a href="#" className="bg-[#C8A96E] text-[#1B3A2D] font-bold px-6 py-3 text-sm rounded-sm">
           Check Price →

@@ -342,7 +342,7 @@ export default function BestGolfSimulatorsPage() {
                 {[
                   { name: 'SkyTrak+', price: '$2,995', tech: 'Camera + Radar', acc: '★★★★☆', sub: '$99–199/yr', use: 'Indoor home' },
                   { name: 'Foresight GC3', price: '$6,999', tech: '3-Camera', acc: '★★★★★', sub: 'None (basic)', use: 'Indoor accuracy' },
-                  { name: 'Full Swing KIT', price: '$6,999', tech: 'Dual Radar', acc: '★★★★☆', sub: 'Included', use: 'Outdoor/range' },
+                  { name: 'Full Swing KIT', price: '$4,999', tech: 'Dual Radar', acc: '★★★★☆', sub: 'Included', use: 'Outdoor/range' },
                   { name: 'Mevo+', price: '$2,199', tech: 'Doppler Radar', acc: '★★★☆☆', sub: '$150/yr full', use: 'Portable/range' },
                   { name: 'Garmin R10', price: '$599', tech: 'Radar', acc: '★★★☆☆', sub: 'App req.', use: 'Budget entry' },
                 ].map((row, i) => (
