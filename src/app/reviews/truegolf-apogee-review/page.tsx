@@ -133,10 +133,10 @@ export default function TruGolfAPOGEEReview() {
 
           <div className="mt-8 flex gap-4">
             <a
-              href="#"
+              href="https://www.amazon.com/s?k=truegolf+apogee&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored"
               className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm"
             >
-              <span>Check Current Price</span>
+              <span>Check Price on Amazon</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
               </svg>

@@ -138,7 +138,7 @@ export default function BestGolfHittingMats() {
             Feel: the best of any mat at this price point. The fiber density and height accurately simulate fairway turf. Fat shots feel unmistakably like fat shots. Clean strikes feel genuinely clean. It gives feedback without punishing your wrists. After using the Flight Deck, going back to a budget mat feels like hitting off a sidewalk.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+hitting+mat+simulator&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Fiberbuilt Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -173,7 +173,7 @@ export default function BestGolfHittingMats() {
             The gel insert does wear out eventually — TrueStrike sells replacement inserts — but the base mat lasts significantly longer than budget options. The hitting surface fiber is high quality and holds up well under repeated use.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+hitting+mat+simulator&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check TrueStrike Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -208,7 +208,7 @@ export default function BestGolfHittingMats() {
             Good for: golfers building their first real simulator setup on a budget, players who practice 2–3 times per week, and anyone who wants to try a quality mat without the premium price to decide if it matters to them before committing to Fiberbuilt pricing.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+hitting+mat+simulator&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check SIGPRO Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -243,7 +243,7 @@ export default function BestGolfHittingMats() {
             Where Country Club Elite stands out: golfers with joint sensitivities or who are managing existing wrist or elbow issues will find the urethane foam base the most forgiving option available at this price. It&apos;s worth considering specifically if wrist health is a concern alongside general mat performance.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+hitting+mat+simulator&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Country Club Elite Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />

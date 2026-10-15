@@ -143,7 +143,7 @@ export default function BestGolfSimulatorImpactScreens() {
             Durability: I&apos;ve seen Carl&apos;s Place screens still performing well after three or four years of regular use when properly tensioned and maintained. The center strike zone will show wear over time — that&apos;s unavoidable with any impact screen — but the material holds rather than tears.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+simulator+impact+screen&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Carl&apos;s Place Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -178,7 +178,7 @@ export default function BestGolfSimulatorImpactScreens() {
             Image quality is very good — on par with Carl&apos;s Place for color accuracy and brightness uniformity. SIG screens work well with standard short-throw projectors in the 2,500–4,000 lumen range without additional ambient light control.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+simulator+impact+screen&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Shop Indoor Golf Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -213,7 +213,7 @@ export default function BestGolfSimulatorImpactScreens() {
             Best use case: a golfer who wants to practice swings and read launch monitor data without a full simulator setup, or someone starting out who plans to upgrade the screen later once they&apos;ve committed to the full build.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+simulator+impact+screen&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check Cimarron Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
@@ -248,7 +248,7 @@ export default function BestGolfSimulatorImpactScreens() {
             Image quality is excellent. The material is bright, uniform, and plays well with both standard and short-throw projectors. Colors are vivid and accurate across the surface area without hot spots or dark edges.
           </p>
           <div className="mt-4">
-            <a href="#" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
+            <a href="https://www.amazon.com/s?k=golf+simulator+impact+screen&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-5 py-3 text-sm tracking-wide hover:bg-[#2d5a45] transition-all duration-200 group rounded-sm">
               <span>Check TrueStrike Pricing</span>
               <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
