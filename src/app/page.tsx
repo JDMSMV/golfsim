@@ -59,14 +59,14 @@ export default function HomePage() {
             {
               name: 'Foresight GC3',
               tag: 'Best for Accuracy',
-              price: '$6,999',
+              price: '$4,999',
               blurb: 'Three high-speed cameras tracking every millimeter of ball flight. The kind of accuracy that club fitters rely on. Expensive, but you\'re paying for data you can trust completely.',
               href: '/reviews/foresight-sports-gc3-review',
             },
             {
               name: 'Full Swing KIT',
               tag: 'Best for Outdoor Use',
-              price: '$6,999',
+              price: '$4,999',
               blurb: 'Dual radar, works in full daylight, and it\'s what Tiger has in his garage. Not just marketing — the outdoor performance is genuinely in a different tier from camera systems.',
               href: '/reviews/full-swing-kit-review',
             },
