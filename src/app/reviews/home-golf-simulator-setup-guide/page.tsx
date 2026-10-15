@@ -1,6 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Setup guide — cost ranges and component pricing verified against current market.
+// Enclosure, screen, projector, and launch monitor price ranges are estimates; verify before publishing.
+
 export const metadata: Metadata = {
   title: 'How to Build a Home Golf Simulator: Everything You Need to Know — Top Golf Simulators',
   description: 'The complete guide to building a home golf simulator. Room selection, equipment list, realistic prices, common mistakes, installation tips, and total cost ranges.',

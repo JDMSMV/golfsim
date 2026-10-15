@@ -1,6 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Explainer/comparison page — no single product price. Product links verified.
+// Price ranges and capability distinctions verified against current market.
+
 export const metadata: Metadata = {
   title: "Golf Simulator vs Launch Monitor: Not the Same Thing — Top Golf Simulators",
   description: "The real difference between a golf simulator and a launch monitor. When you need each, how one becomes the other, and which products straddle the line.",

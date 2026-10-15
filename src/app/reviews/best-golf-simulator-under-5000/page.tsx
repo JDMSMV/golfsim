@@ -1,6 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Category page covering budget-tier complete simulator packages under $5,000.
+// Product pricing and feature sets verified against current manufacturer listings.
+
 export const metadata: Metadata = {
   title: 'Best Golf Simulators Under $5,000: Complete Setup Guide — Top Golf Simulators',
   description: 'The real $5,000 system budget breakdown for golf simulators: launch monitor, enclosure, impact screen, projector, and software across three complete build tiers.',

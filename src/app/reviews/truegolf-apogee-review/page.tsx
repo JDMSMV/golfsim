@@ -1,5 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import ProductRatings from '@/components/ProductRatings'
+
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// TruGolf APOGEE price: $8,995 | Commission: ~8% = ~$720 per sale
+// Includes TGC2 software with no ongoing subscription (verified).
+// Technology: Camera-based tracking (verified). All-in-one package.
 
 export const metadata: Metadata = {
   title: 'TruGolf APOGEE Review: The All-in-One That Takes the Headache Out — Top Golf Simulators',
@@ -9,6 +15,16 @@ export const metadata: Metadata = {
 export default function TruGolfAPOGEEReview() {
   return (
     <div className="bg-gs-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "TruGolf APOGEE Golf Simulator"
+          })
+        }}
+      />
       <div className="max-w-3xl mx-auto px-6 py-16">
 
         <div className="mb-10">
@@ -127,6 +143,11 @@ export default function TruGolfAPOGEEReview() {
             </a>
           </div>
         </div>
+
+        <ProductRatings
+          productName="TruGolf APOGEE"
+          reviews={[]}
+        />
 
         <div className="mt-14 border-t border-gs-border pt-10">
           <h3 className="font-serif text-2xl text-gs-green mb-6">Related</h3>

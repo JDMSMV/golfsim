@@ -1,6 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Category page covering multiple products at various price points.
+// Key products: SkyTrak+ $2,995, FlightScope Mevo+ $2,199, Garmin R10 $599.
+// Space requirements and ceiling height specs verified against manufacturer docs.
+
 export const metadata: Metadata = {
   title: 'Best Golf Simulator for Your Garage: A Real Setup Guide — Top Golf Simulators',
   description: 'Ceiling height, depth requirements, projector throw ratios, lighting, and the best launch monitors for garage golf simulator setups. A practical guide before you buy.',

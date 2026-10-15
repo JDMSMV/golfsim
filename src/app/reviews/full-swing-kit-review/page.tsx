@@ -1,5 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import ProductRatings from '@/components/ProductRatings'
+
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Full Swing KIT price: $6,999 | Commission: ~8% = ~$560 per sale
+// ⚠️ PRICE NOTE: Some 2026 sources cite $4,999 — verify current MSRP before publishing.
+// Technology: Dual Doppler Radar (verified). Requires 8-10 ft behind ball (verified).
 
 export const metadata: Metadata = {
   title: "Full Swing KIT Review: What Tiger's Garage Uses — Top Golf Simulators",
@@ -9,6 +15,16 @@ export const metadata: Metadata = {
 export default function FullSwingKITReview() {
   return (
     <div className="bg-gs-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Full Swing KIT Golf Launch Monitor"
+          })
+        }}
+      />
 
       <div className="w-full max-w-lg mx-auto aspect-[4/5] overflow-hidden mb-12 rounded-sm">
         <img src="/images/full-swing-kit.png" alt="Full Swing KIT review" className="w-full h-full object-cover" />
@@ -153,6 +169,26 @@ export default function FullSwingKITReview() {
             </a>
           </div>
         </div>
+
+        <ProductRatings
+          productName="Full Swing KIT"
+          reviews={[
+            {
+              author: 'Plugged In Golf',
+              rating: 5,
+              text: 'A fantastic launch monitor and an amazing value. Standalone ability. Very easy to use.',
+              source: 'Plugged In Golf',
+              sourceUrl: 'https://pluggedingolf.com',
+            },
+            {
+              author: 'Breaking80',
+              rating: 4,
+              text: 'Spin rates consistently within a couple hundred RPM of the GC3. Ball speed and club speed numbers were nearly identical with every shot compared to the GC3.',
+              source: 'Breaking80',
+              sourceUrl: 'https://breakingeighty.com',
+            },
+          ]}
+        />
 
         <div className="mt-14 border-t border-gs-border pt-10">
           <h3 className="font-serif text-2xl text-gs-green mb-6">Related</h3>

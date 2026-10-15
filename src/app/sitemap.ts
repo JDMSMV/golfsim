@@ -17,6 +17,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/reviews/best-golf-simulator-for-garage`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/reviews/golf-simulator-vs-launch-monitor`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/reviews/home-golf-simulator-setup-guide`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/reviews/best-golf-simulator-impact-screens`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/best-golf-hitting-mats`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/best-projectors-for-golf-simulators`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/authors/marcus-webb`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${base}/authors/tyler-kwan`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
   ]

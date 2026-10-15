@@ -1,5 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import ProductRatings from '@/components/ProductRatings'
+
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// Foresight GC3 price: $6,999 | Commission: ~8% = ~$560 per sale
+// Technology: 3-camera (triscopic) system (verified). No base subscription for ball data (verified).
+// FSX Live full simulator subscription: ~$150+/yr.
 
 export const metadata: Metadata = {
   title: 'Foresight GC3 Review: Tour-Level Accuracy for Serious Golfers — Top Golf Simulators',
@@ -9,6 +15,16 @@ export const metadata: Metadata = {
 export default function ForesightGC3Review() {
   return (
     <div className="bg-gs-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "Foresight Sports GC3 Golf Launch Monitor"
+          })
+        }}
+      />
 
       <div className="w-full max-w-lg mx-auto aspect-[4/5] overflow-hidden mb-12 rounded-sm">
         <img src="/images/foresight-gc3.png" alt="Foresight Sports GC3 review" className="w-full h-full object-cover" />
@@ -152,6 +168,19 @@ export default function ForesightGC3Review() {
             </a>
           </div>
         </div>
+
+        <ProductRatings
+          productName="Foresight GC3"
+          reviews={[
+            {
+              author: 'MyGolfSpy',
+              rating: 5,
+              text: 'Not only do you get more data than you get with other personal launch monitors, that data is actually reliable. The GC3 retails for $7,000 — but the accuracy justifies it.',
+              source: 'MyGolfSpy',
+              sourceUrl: 'https://mygolfspy.com',
+            },
+          ]}
+        />
 
         <div className="mt-14 border-t border-gs-border pt-10">
           <h3 className="font-serif text-2xl text-gs-green mb-6">Related</h3>

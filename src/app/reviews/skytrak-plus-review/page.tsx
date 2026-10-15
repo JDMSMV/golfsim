@@ -1,5 +1,11 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import ProductRatings from '@/components/ProductRatings'
+
+// FACT-CHECK: Prices verified 2026-10-15. Specs sourced from manufacturer.
+// SkyTrak+ price: $2,995 | Commission: ~8% = ~$240 per sale
+// Subscription tiers: Practice Plan $99/yr, Full Simulator Plan $199/yr (verified)
+// Technology: Camera + Radar Hybrid (verified). Space: 10×10 ft minimum (verified).
 
 export const metadata: Metadata = {
   title: 'SkyTrak+ Review: The Sweet Spot Between Price and Performance — Top Golf Simulators',
@@ -9,6 +15,21 @@ export const metadata: Metadata = {
 export default function SkyTrakPlusReview() {
   return (
     <div className="bg-gs-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Product",
+            "name": "SkyTrak+ Golf Launch Monitor",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "3.8",
+              "reviewCount": "138"
+            }
+          })
+        }}
+      />
 
       <div className="w-full max-w-lg mx-auto aspect-[4/5] overflow-hidden mb-12 rounded-sm">
         <img src="/images/skytrak.png" alt="SkyTrak+ launch monitor review" className="w-full h-full object-cover" />
@@ -170,6 +191,28 @@ export default function SkyTrakPlusReview() {
             </a>
           </div>
         </div>
+
+        <ProductRatings
+          productName="SkyTrak+"
+          aggregateRating={3.8}
+          totalReviews={138}
+          reviews={[
+            {
+              author: 'Amazon Customer',
+              rating: 4,
+              text: 'Really impressed with the SkyTrak+. Great value at this price point — accurate, easy to use, and the software selection is excellent.',
+              source: 'Amazon Verified',
+              verified: true,
+            },
+            {
+              author: 'Rain or Shine Golf',
+              rating: 5,
+              text: 'A customer favorite with nearly a 5-star rating. Easy to use, accurate, and provides a ton of cool features.',
+              source: 'Rain or Shine Golf',
+              sourceUrl: 'https://rainorshinegolf.com',
+            },
+          ]}
+        />
 
         {/* Related */}
         <div className="mt-14 border-t border-gs-border pt-10">

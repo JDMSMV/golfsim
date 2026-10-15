@@ -14,7 +14,7 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden md:flex items-center gap-8">
+        <nav className="hidden md:flex items-center gap-5">
           <Link
             href="/best-golf-simulators"
             className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
@@ -26,6 +26,24 @@ export default function Navbar() {
             className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
           >
             Reviews
+          </Link>
+          <Link
+            href="/reviews/best-golf-simulator-impact-screens"
+            className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
+          >
+            Impact Screens
+          </Link>
+          <Link
+            href="/reviews/best-golf-hitting-mats"
+            className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
+          >
+            Hitting Mats
+          </Link>
+          <Link
+            href="/reviews/best-projectors-for-golf-simulators"
+            className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide"
+          >
+            Projectors
           </Link>
           <Link
             href="/the-range"
@@ -76,6 +94,27 @@ export default function Navbar() {
               onClick={() => setOpen(false)}
             >
               Reviews
+            </Link>
+            <Link
+              href="/reviews/best-golf-simulator-impact-screens"
+              className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide py-2"
+              onClick={() => setOpen(false)}
+            >
+              Impact Screens
+            </Link>
+            <Link
+              href="/reviews/best-golf-hitting-mats"
+              className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide py-2"
+              onClick={() => setOpen(false)}
+            >
+              Hitting Mats
+            </Link>
+            <Link
+              href="/reviews/best-projectors-for-golf-simulators"
+              className="font-inter text-sm font-medium text-gs-text hover:text-gs-green transition-colors tracking-wide py-2"
+              onClick={() => setOpen(false)}
+            >
+              Projectors
             </Link>
             <Link
               href="/reviews/home-golf-simulator-setup-guide"
