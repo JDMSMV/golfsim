@@ -20,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/reviews/best-golf-simulator-impact-screens`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/reviews/best-golf-hitting-mats`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/reviews/best-projectors-for-golf-simulators`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/skytrak-plus-vs-foresight-gc3`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/authors/marcus-webb`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${base}/authors/tyler-kwan`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
   ]
