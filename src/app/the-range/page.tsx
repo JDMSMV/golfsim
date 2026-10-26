@@ -8,6 +8,24 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'built-golf-simulator-2200',
+    title: "I Built a Golf Simulator for $2,200. Here's What I'd Do Differently.",
+    date: 'October 26, 2026',
+    author: 'Tyler Kwan',
+    authorImg: '/images/tyler-kwan.png',
+    excerpt: 'Every bad buy, every shortcut that backfired, and the one measurement I almost forgot that would have ended the whole project before it started.',
+    tag: 'Setup',
+  },
+  {
+    slug: 'simulator-handicap-lies',
+    title: 'Why Your Golf Simulator Handicap Lies to You',
+    date: 'October 25, 2026',
+    author: 'Marcus Webb',
+    authorImg: '/images/marcus-webb.png',
+    excerpt: 'The dirty secret nobody in the simulator industry will tell you: your 4 handicap on TGC2 is not your 4 handicap. Here\'s exactly why, and what to do about it.',
+    tag: 'Opinion',
+  },
+  {
     slug: 'best-practice-drills-golf-simulator',
     title: '7 Practice Drills That Actually Work on a Golf Simulator',
     date: 'October 12, 2026',

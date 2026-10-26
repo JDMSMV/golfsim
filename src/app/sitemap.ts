@@ -23,5 +23,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/reviews/skytrak-plus-vs-foresight-gc3`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
     { url: `${base}/authors/marcus-webb`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
     { url: `${base}/authors/tyler-kwan`, lastModified: now, changeFrequency: 'monthly', priority: 0.5 },
+    { url: `${base}/reviews/best-golf-simulator-10x12-room`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/full-swing-kit-vs-skytrak-plus`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/reviews/best-golf-simulator-under-3000`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/flightscope-mevo-plus-long-term-review`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/the-range/simulator-handicap-lies`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/the-range/built-golf-simulator-2200`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
   ]
 }
