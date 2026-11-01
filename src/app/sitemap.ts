@@ -29,5 +29,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/reviews/flightscope-mevo-plus-long-term-review`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/the-range/simulator-handicap-lies`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/the-range/built-golf-simulator-2200`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/reviews/garmin-r10-vs-flightscope-mevo-plus`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/reviews/golf-simulator-room-size-guide`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/the-range/golf-simulator-beginner-mistakes`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/the-range/switched-skytrak-to-gc3`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
   ]
 }

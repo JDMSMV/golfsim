@@ -8,6 +8,24 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'switched-skytrak-to-gc3',
+    title: "I Switched from SkyTrak+ to the Foresight GC3. Here's the Honest Story.",
+    date: 'November 1, 2026',
+    author: 'Marcus Webb',
+    authorImg: '/images/marcus-webb.png',
+    excerpt: 'After 18 months on the SkyTrak+, Marcus bought the GC3. Not a review — the real account of what pushed him, sticker shock, and who should actually make this switch.',
+    tag: 'Gear',
+  },
+  {
+    slug: 'golf-simulator-beginner-mistakes',
+    title: '5 Golf Simulator Mistakes Every Beginner Makes',
+    date: 'November 1, 2026',
+    author: 'Marcus Webb',
+    authorImg: '/images/marcus-webb.png',
+    excerpt: 'Buying the launch monitor before confirming the space. Cheap mats that cause wrist injuries. Wrong projector throw distance. No side netting. And treating your simulator handicap as your real one. All avoidable.',
+    tag: 'Setup',
+  },
+  {
     slug: 'built-golf-simulator-2200',
     title: "I Built a Golf Simulator for $2,200. Here's What I'd Do Differently.",
     date: 'October 26, 2026',
