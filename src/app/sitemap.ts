@@ -33,5 +33,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/reviews/golf-simulator-room-size-guide`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
     { url: `${base}/the-range/golf-simulator-beginner-mistakes`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
     { url: `${base}/the-range/switched-skytrak-to-gc3`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${base}/reviews/best-golf-simulator-for-apartments`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${base}/reviews/golf-simulator-total-cost-breakdown`, lastModified: now, changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${base}/reviews/best-golf-hitting-mats-2026`, lastModified: now, changeFrequency: 'monthly', priority: 0.8 },
   ]
 }
