@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Golf Simulator Room Size Guide: What Space Do You Actually Need? | Top Golf Simulators',
+  title: 'Golf Simulator Room Size Guide: What You Actually Need | Top Golf Simulators',
   description: 'Definitive space requirements for a home golf simulator. Minimum and ideal dimensions, ceiling height, radar vs camera placement, and which launch monitor fits which room.',
 }
 
@@ -14,7 +14,7 @@ export default function GolfSimulatorRoomSizeGuidePage() {
         <p className="font-inter text-xs font-semibold uppercase tracking-widest text-gs-gold mb-4">Buying Guide</p>
 
         <h1 className="font-serif text-4xl md:text-5xl text-gs-green leading-tight mb-6">
-          Golf Simulator Room Size Guide: What Space Do You Actually Need?
+          Golf Simulator Room Size Guide: What You Actually Need
         </h1>
 
         <div className="flex items-center gap-3 mb-10 pb-8 border-b border-gray-100">
@@ -67,13 +67,13 @@ export default function GolfSimulatorRoomSizeGuidePage() {
 
           <h2 className="font-serif text-3xl text-gs-green mt-10 mb-2">Ideal Dimensions</h2>
           <p>
-            If you have options about which space to use, target this: <strong className="font-semibold text-[#1B3A2D]">12 feet wide × 16 feet deep × 10 feet ceiling</strong>.
+            If you have options about which space to use, target this: <strong className="font-semibold text-[#1B3A2D]">12 feet wide × 15 feet deep × 10 feet ceiling</strong>.
           </p>
           <p>
             At 12 feet wide, you have enough lateral clearance to swing freely without the mental overhead of worrying about the walls. You can run side netting comfortably. You have room for the occasional shanked range ball without it going directly into drywall.
           </p>
           <p>
-            At 16 feet deep, you have room for the impact screen at the front plus enough distance from the hitting position to the back wall to accommodate radar-based launch monitors, which typically need 8–10 feet of clearance behind the ball. This is the depth at which your equipment options open up.
+            At 15 feet deep, you have room for the impact screen at the front plus enough distance from the hitting position to the back wall to accommodate radar-based launch monitors, which typically need 8–10 feet of clearance behind the ball. This is the depth at which your equipment options open up.
           </p>
           <p>
             At 10 feet of ceiling height, virtually all golfers can swing a driver without thinking about the ceiling. This is the number where ceiling anxiety goes away entirely.
@@ -184,14 +184,6 @@ export default function GolfSimulatorRoomSizeGuidePage() {
 
           <div className="mt-8 flex flex-wrap gap-4">
             <a
-              href="https://www.amazon.com/s?k=skytrak+plus+launch+monitor&tag=smvaffiliates-20"
-              target="_blank"
-              rel="nofollow sponsored"
-              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all rounded-sm"
-            >
-              SkyTrak+ on Amazon <span>→</span>
-            </a>
-            <a
               href="https://www.amazon.com/dp/B095QX1FSR?tag=smvaffiliates-20"
               target="_blank"
               rel="nofollow sponsored"
@@ -200,12 +192,20 @@ export default function GolfSimulatorRoomSizeGuidePage() {
               Garmin R10 on Amazon <span>→</span>
             </a>
             <a
-              href="https://www.amazon.com/s?k=flightscope+mevo+plus&tag=smvaffiliates-20"
+              href="https://www.amazon.com/s?k=golf+simulator+hitting+mat&tag=smvaffiliates-20"
               target="_blank"
               rel="nofollow sponsored"
-              className="inline-flex items-center gap-2 bg-[#1B3A2D] text-white font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#2d5a45] transition-all rounded-sm"
+              className="inline-flex items-center gap-2 border border-[#1B3A2D] text-[#1B3A2D] font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#1B3A2D] hover:text-white transition-all rounded-sm"
             >
-              FlightScope Mevo+ on Amazon <span>→</span>
+              Hitting Mats on Amazon <span>→</span>
+            </a>
+            <a
+              href="https://www.amazon.com/s?k=golf+simulator+impact+screen&tag=smvaffiliates-20"
+              target="_blank"
+              rel="nofollow sponsored"
+              className="inline-flex items-center gap-2 border border-[#1B3A2D] text-[#1B3A2D] font-semibold px-6 py-4 text-sm tracking-wide hover:bg-[#1B3A2D] hover:text-white transition-all rounded-sm"
+            >
+              Impact Screens on Amazon <span>→</span>
             </a>
           </div>
 
