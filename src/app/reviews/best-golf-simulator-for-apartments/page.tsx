@@ -28,12 +28,15 @@ export default function BestGolfSimulatorForApartments() {
           </h1>
 
           {/* Author byline */}
-          <div className="flex items-center gap-3 mb-10 pb-8 border-b border-gray-100">
-            <img src="/images/tyler-kwan.png" alt="Tyler Kwan" className="w-12 h-12 rounded-full object-cover ring-2 ring-[#C8A96E]" />
-            <div>
-              <p className="font-semibold text-[#1B3A2D] text-sm">Tyler Kwan</p>
-              <p className="text-xs text-gray-500">9 handicap · Austin, TX · Published November 4, 2026</p>
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-gray-200">
+            <div className="w-10 h-10 rounded-full bg-[#1B3A2D] flex items-center justify-center text-white font-semibold text-sm flex-shrink-0">
+              TK
             </div>
+            <div>
+              <p className="font-medium text-sm text-[#1B3A2D]">Tyler Kwan</p>
+              <p className="text-xs text-gray-500">9 handicap · Austin, TX</p>
+            </div>
+            <Link href="/authors/tyler-kwan" className="ml-auto text-xs text-gray-400 hover:text-[#1B3A2D]">View profile →</Link>
           </div>
 
           <div className="border-l-2 border-gs-gold pl-6">
@@ -178,7 +181,8 @@ export default function BestGolfSimulatorForApartments() {
           <ul className="list-disc pl-6 space-y-2 mt-2">
             <li><strong className="text-gs-text font-medium">Layer 1 — Rubber underlayment:</strong> 3/8-inch rubber mat, slightly larger than your hitting area. This is your vibration absorption and scratch prevention. Cost: $40–80 for a 4×6 section.</li>
             <li><strong className="text-gs-text font-medium">Layer 2 — Foam puzzle tiles:</strong> Optional, but adds another layer of cushion and helps with joint fatigue if you&apos;re on a hard surface. Cost: $30–50.</li>
-            <li><strong className="text-gs-text font-medium">Layer 3 — Hitting mat:</strong> At least 1.5 inches of base thickness. Thin mats on hard floors will wreck your wrists over time — the lack of give sends impact shock directly up your arms. More on this in my hitting mat guide.</li>
+            <li><strong className="text-gs-text font-medium">Layer 3 — Hitting mat:</strong> At least 1.5 inches of base thickness. Thin mats on hard floors will wreck your wrists over time — the lack of give sends impact shock directly up your arms.{' '}
+              <a href="https://www.amazon.com/s?k=golf+simulator+hitting+mat&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="text-gs-green underline hover:text-gs-gold">Browse hitting mats on Amazon →</a></li>
           </ul>
           <p>
             Total cost of floor protection: $70–130. Worth every dollar.
@@ -189,7 +193,8 @@ export default function BestGolfSimulatorForApartments() {
             This comes down to whether you want a practice tool or a full simulator experience.
           </p>
           <p>
-            <strong className="text-gs-text font-medium">Practice net:</strong> Folds up and stores in 5 minutes. $100–200. No projector needed. No impact screen to mount. You look at your phone or tablet for data. It&apos;s unglamorous but functional for working on your game.
+            <strong className="text-gs-text font-medium">Practice net:</strong> Folds up and stores in 5 minutes.{' '}
+            <a href="https://www.amazon.com/s?k=golf+hitting+net&tag=smvaffiliates-20" target="_blank" rel="nofollow sponsored" className="text-gs-green underline hover:text-gs-gold">$100–200 on Amazon</a>. No projector needed. No impact screen to mount. You look at your phone or tablet for data. It&apos;s unglamorous but functional for working on your game.
           </p>
           <p>
             <strong className="text-gs-text font-medium">Impact screen:</strong> Requires a frame or mounting hardware. Usually 8–10 feet wide, 7–8 feet tall. You project your simulator software onto it. The experience is dramatically better than staring at a phone. But it&apos;s a commitment — the screen and frame take significant wall space and can&apos;t be quickly stored.
