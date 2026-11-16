@@ -65,7 +65,7 @@ export default function GolfSimulatorBeginnerMistakesPage() {
             The consequence, if you&apos;re hitting several hundred balls per week off bad mats, is repetitive stress injuries. Wrist pain. Elbow tendinitis. The early stages of what gets called &quot;golfer&apos;s elbow&quot; on a real course but is actually mat shock in a simulator context. I have watched two friends develop persistent wrist problems they directly attribute to early simulator setups with inadequate mats.
           </p>
           <p>
-            A proper mat has real rubber backing of meaningful thickness, generous dimensions so your feet are on the same surface as the ball, and turf nap that actually behaves like grass rather than carpet. Fiberbuilt, Country Club Elite, and a handful of others in the $350–600 range are the standard recommendations. They are worth every penny.
+            A proper mat has real rubber backing of meaningful thickness, generous dimensions so your feet are on the same surface as the ball, and turf nap that actually behaves like grass rather than carpet. <a href="https://www.amazon.com/s?k=golf+simulator+hitting+mat&tag=smvaffiliates-20" target="_blank" rel="noopener noreferrer" className="text-[#1B3A2D] hover:text-[#C8A96E] underline underline-offset-2">Fiberbuilt, Country Club Elite, and a handful of others in the $350–600 range</a> are the standard recommendations. They are worth every penny.
           </p>
           <p>
             While I&apos;m at it: your mat should be large enough that you&apos;re not standing on concrete next to it. The entire hitting area — your stance plus ball position — should be on the mat surface. Partial mat coverage with one foot on concrete is bad for your swing and bad for your body.
@@ -99,7 +99,7 @@ export default function GolfSimulatorBeginnerMistakesPage() {
             This is not about skill level. A shank — the hosel strike that sends the ball 45 degrees sideways — can happen to anyone. Scratch golfers shank the ball. Tour players shank in practice. A single hosel strike in a simulator bay with no side netting sends a ball moving at 140 miles per hour directly at a wall, a window, a television screen, or a person who happened to be standing in that direction. The result is property damage or, in the worst case, injury.
           </p>
           <p>
-            Side netting costs $100–200 depending on how you set it up. It installs in an afternoon. It protects thousands of dollars of equipment, your home, and anyone in or adjacent to the room. It also gives you the psychological safety to swing freely instead of subconsciously protecting against a catastrophic sideways shot.
+            <a href="https://www.amazon.com/s?k=golf+simulator+side+netting&tag=smvaffiliates-20" target="_blank" rel="noopener noreferrer" className="text-[#1B3A2D] hover:text-[#C8A96E] underline underline-offset-2">Side netting costs $100–200</a> depending on how you set it up. It installs in an afternoon. It protects thousands of dollars of equipment, your home, and anyone in or adjacent to the room. It also gives you the psychological safety to swing freely instead of subconsciously protecting against a catastrophic sideways shot.
           </p>
           <p>
             Install it before your first session. This is not a debate.
