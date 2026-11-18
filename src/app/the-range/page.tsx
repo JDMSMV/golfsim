@@ -8,6 +8,15 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'i-switched-from-skytrak-to-gc3',
+    title: "I Switched from SkyTrak+ to the Foresight GC3. Here's Why.",
+    date: 'November 18, 2026',
+    author: 'Marcus Webb',
+    authorImg: '/images/marcus-webb.png',
+    excerpt: 'After 18 months on the SkyTrak+, Marcus made the jump to the GC3. Here are the four specific reasons — spin accuracy, club fitting data, subscription costs, and category differences — plus his honest take on who should actually do the same.',
+    tag: 'Opinion',
+  },
+  {
     slug: 'switched-skytrak-to-gc3',
     title: "I Switched from SkyTrak+ to the Foresight GC3. Here's the Honest Story.",
     date: 'November 1, 2026',
