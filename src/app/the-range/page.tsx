@@ -8,6 +8,15 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'golf-simulator-vs-driving-range',
+    title: 'Golf Simulator vs Driving Range: Which Actually Improves Your Game?',
+    date: 'November 23, 2026',
+    author: 'Marcus Webb',
+    authorImg: '/images/marcus-webb.png',
+    excerpt: 'The honest answer: both serve different purposes — but most people are going to the driving range wrong. Marcus makes the case for intentional practice over just hitting balls.',
+    tag: 'Practice',
+  },
+  {
     slug: 'i-switched-from-skytrak-to-gc3',
     title: "I Switched from SkyTrak+ to the Foresight GC3. Here's Why.",
     date: 'November 18, 2026',
