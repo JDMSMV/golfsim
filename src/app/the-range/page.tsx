@@ -8,6 +8,15 @@ export const metadata: Metadata = {
 
 const posts = [
   {
+    slug: 'best-golf-simulator-courses-ranked',
+    title: 'The 10 Best Golf Simulator Courses, Ranked: Pebble, Augusta, St Andrews, and More',
+    date: 'November 25, 2026',
+    author: 'Tyler Kwan',
+    authorImg: '/images/tyler-kwan.png',
+    excerpt: "Tyler's personal ranking of the 10 best courses to play across TGC2, E6 Connect, and FSX Play — from Oakmont and Whistling Straits to St Andrews, Augusta, and the consensus #1.",
+    tag: 'Opinion',
+  },
+  {
     slug: 'golf-simulator-vs-driving-range',
     title: 'Golf Simulator vs Driving Range: Which Actually Improves Your Game?',
     date: 'November 23, 2026',
